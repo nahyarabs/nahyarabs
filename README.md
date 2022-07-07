@@ -2,7 +2,7 @@
 
 * 🔭 Atualmente, estou em transição de carreira do jornalismo para a TI
 * 👩‍🎓 Concluo a graduação em Sistemas de Informação em 2023
-* 🌱 Estudando as linguagens Java e Python
+* 🌱 Estudando desenvolvimento back-end com as linguagens Java e Python
 * 💡 Busco atuar na área de Qualidade de Software (QA)
 
 <div align="center">
