@@ -1,8 +1,9 @@
-#### Olá! Eu sou Nahyara Batista 😉😉😉
+#### Olá! Eu sou Nahyara 😉😉😉
 
 * 🔭 Atualmente, estou em transição de carreira do jornalismo para a TI
 * 👩‍🎓 Concluo a graduação em Sistemas de Informação em 2023
-* 💡 Busco atuar na área de Qualidade de Software (QA)
+* 💡 Pretendo atuar na área de Qualidade de Software (QA)
+* 👩‍💻 Também me interesso em dev backend Java
 
 <h4 align="left">Conecte-se comigo!</h4>
 <p align="left">
