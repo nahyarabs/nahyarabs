@@ -1,13 +1,13 @@
 #### Olá! Eu sou Nahyara 😉😉😉
 
-* 🔭 Atualmente, estou em transição de carreira do jornalismo para a TI
-* 👩‍🎓 Concluo a graduação em Sistemas de Informação em 2023
-* 💡 Pretendo atuar na área de Qualidade de Software (QA)
-* 👩‍💻 Também me interesso em dev backend Java
+* 💡 Estou em transição de carreira e sou aluna do NExT na Cesar School
+* 🎓 Me formei em Sistemas de Informação recentemente
+* 👩‍💻 Me interesso por desenvolvimento back-end e qualidade de software
+* 📝 Sou formada em jornalismo e atuo como assessora de imprensa
 
 <h4 align="left">Conecte-se comigo!</h4>
 <p align="left">
-<a href="https://linkedin.com/in/nahyarabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahyarabs" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/nahyarabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahyarabs" height="40" width="40" /></a>
 </p>
 
 <h4 align="left">O que estou estudando:</h4>
@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-
+<img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="40" height="40"/>
 
 </p> 
 
