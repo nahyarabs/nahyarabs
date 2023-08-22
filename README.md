@@ -22,10 +22,8 @@
 <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/></a>
 <a href="https://eclipseide.org/"><img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" width="40" height="40"/></a>
-
-</p> 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahyarabs&show_icons=true&&theme=panda&include_all_commits&locale=en&layout=compact" alt="nahyarabs" /></p>
+</p>
+<p><img aling="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahyarabs&theme=panda" alt="nahyarabs"/></p><p><img aling="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahyarabs&theme=panda" alt="nahyarabs"/></p>
 
 
 
