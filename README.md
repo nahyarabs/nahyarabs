@@ -1,10 +1,10 @@
 <div>
   <h2 align="center">✨ Olá, eu sou Nahyara! ✨</h2>
   <p align="center">
-  🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School   
-  🎓 Me formei em Sistemas de Informação pela Uninassau 
-  👩‍💻 Me interesso por desenvolvimento back-end e qualidade de software  
-  📝 Sou formada em jornalismo e trabalho como assessora de imprensa atualmente
+  🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
+🎓 Me formei em Sistemas de Informação pela Uninassau
+👩‍💻 Me interesso por desenvolvimento back-end e qualidade de software
+📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa 
   </p>
 </div>
 <h4 align="center">Conecte-se comigo!</h4>
