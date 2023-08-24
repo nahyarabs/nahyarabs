@@ -26,8 +26,9 @@
 <h4 align="center">Minhas estatísticas no GitHub:</h4>
 <p align="center"> 
   <div align="center">
-     <img height="150em" alt="language" title="top languages by commit" src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahyarabs&theme=panda&show_icons=true/>
-     <img height="150em" alt="stats" title="nahyarabs' github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahyarabs&theme=panda&hide_border=false&&layout=compact"/>
+     <img height="150em" alt="toplanguagecommit" title="top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahyarabs&theme=moltack&hide_border=false&&layout=compact"/>
+     <img height="150em" alt="toplanguagereposit" title="top languages by reposit" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahyarabs&theme=moltack&hide_border=false&&layout=compact"/>
+     <img height="150em" alt="stats" title="nahyarabs' github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahyarabs&theme=moltack&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
