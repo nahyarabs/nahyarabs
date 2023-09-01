@@ -1,18 +1,18 @@
 <div>
-  <h2 align="center">✨ Olá, eu sou Nahyara! ✨</h2>
-  <p align="center">
-  🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
-🎓 Me formei em Sistemas de Informação pela Uninassau
-👩‍💻 Me interesso por desenvolvimento back-end e qualidade de software
-📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa 
+  <h2>✨ Olá, eu sou Nahyara! ✨</h2>
+  <p>
+🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School</p>
+<p>🎓 Me formei em Sistemas de Informação pela Uninassau</p>
+<p>👩‍💻 Me interesso por desenvolvimento back-end e qualidade de software</p>
+<p>📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa	  
   </p>
 </div>
-<h4 align="center">Conecte-se comigo!</h4>
-<p align="center">
+<h4>Conecte-se comigo!</h4>
+<p>
   <a href="https://linkedin.com/in/nahyarabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahyarabs" title="linkedin/nahyarabs" height="40" width="40" /></a>
 </p>
-<h4 align="center">O que estou estudando/utilizando:</h4>
-<div align="center">
+<h4>O que estou estudando/utilizando:</h4>
+<div>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
   	<img width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
@@ -23,9 +23,9 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
 </div>
-<h4 align="center">Minhas estatísticas no GitHub:</h4>
-<p align="center"> 
-  <div align="center">
+<h4>Minhas estatísticas no GitHub:</h4>
+<p> 
+  <div>
      <img height="150em" alt="toplanguagecommit" title="top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahyarabs&theme=moltack&hide_border=false&&layout=compact"/>
      <img height="150em" alt="toplanguagereposit" title="top languages by reposit" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahyarabs&theme=moltack&hide_border=false&&layout=compact"/>
      <img height="150em" alt="stats" title="nahyarabs' github stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahyarabs&theme=moltack&hide_border=false&&layout=compact"/>
