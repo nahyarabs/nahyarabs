@@ -1,17 +1,18 @@
 <div>
-  <h2>✨ Olá, eu sou Nahyara! ✨</h2>
-  <p>
-🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School</p>
+  <h2> Olá, eu sou Nahyara! 😉 </h2>
+<p>🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School</p>
 <p>🎓 Me formei em Sistemas de Informação pela Uninassau</p>
-<p>👩‍💻 Me interesso por desenvolvimento back-end e qualidade de software</p>
-<p>📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa	  
-  </p>
+<p>🔎 Tenho interesse por desenvolvimento back-end e qualidade de software</p>
+<p>📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa</p>
 </div>
-<h4>Conecte-se comigo!</h4>
+<p>
+	
+</p>
+<h3>Conecte-se comigo!</h3>
 <p>
   <a href="https://linkedin.com/in/nahyarabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahyarabs" title="linkedin/nahyarabs" height="40" width="40" /></a>
 </p>
-<h4>O que estou estudando/utilizando:</h4>
+<h3>O que estou estudando/utilizando:</h3>
 <div>
 	<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
   	<img width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
@@ -23,7 +24,7 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
 </div>
-<h4>Minhas estatísticas no GitHub:</h4>
+<h3>Minhas estatísticas no GitHub:</h3>
 <p> 
   <div>
      <img height="150em" alt="toplanguagecommit" title="top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahyarabs&theme=moltack&hide_border=false&&layout=compact"/>
