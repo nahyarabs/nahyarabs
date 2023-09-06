@@ -1,13 +1,12 @@
 <div>
-  <h2> Olá, eu sou Nahyara! 😉 </h2>
-<p>🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School</p>
-<p>🎓 Me formei em Sistemas de Informação pela Uninassau</p>
-<p>🔎 Tenho interesse por desenvolvimento back-end e qualidade de software</p>
-<p>📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa</p>
-</div>
-<p>
-	
-</p>
+  <h2> Olá, eu sou Nahyara! 😉 </h2> </div>
+
+```diff
+- 🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
+- 🎓 Me formei em Sistemas de Informação pela Uninassau
+- 🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
+- 📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
+```
 <h3>Conecte-se comigo!</h3>
 <p>
   <a href="https://linkedin.com/in/nahyarabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahyarabs" title="linkedin/nahyarabs" height="40" width="40" /></a>
