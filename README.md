@@ -3,14 +3,10 @@
 
 ```diff
 - 🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
-- 🎓 Me formei em Sistemas de Informação pela Uninassau
+- 🎓 Me graduei em Sistemas de Informação pela Uninassau
 - 🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
 - 📝 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
 ```
-<h3>Conecte-se comigo!</h3>
-<p>
-  <a href="https://linkedin.com/in/nahyarabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahyarabs" title="linkedin/nahyarabs" height="35" width="35" /></a>
-</p>
 <h3>O que estou estudando/utilizando:</h3>
 <div>
 	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
@@ -23,6 +19,10 @@
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
 </div>
+<h3>Conecte-se comigo!</h3>
+<p>
+  <a href="https://linkedin.com/in/nahyarabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahyarabs" title="linkedin/nahyarabs" height="35" width="35" /></a>
+</p>
 <h3>Minhas estatísticas no GitHub:</h3>
 <p> 
   <div>
