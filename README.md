@@ -6,7 +6,7 @@
 🎓 Me graduei em Sistemas de Informação pela Uninassau
 🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
 📰 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
-💁🏻 Mãe-de-pet da Nala🐶 e da Eevee🐺
+🐶 Mãe-de-pet da Nala e da Eevee
 
 ```
 <h3>O que estou estudando/utilizando:</h3>
