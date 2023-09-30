@@ -1,14 +1,13 @@
 <div>
   <h3> Olá, eu sou Nahyara! 😉 </h3> </div>
 
-```diff
-🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
-🎓 Me graduei em Sistemas de Informação pela Uninassau
-🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
-📰 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
-🐶 Mãe-de-pet da Nala e da Eevee
 
-```
+- 🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
+- 🎓 Me graduei em Sistemas de Informação pela Uninassau
+- 🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
+- 📰 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
+- 🐶 Mãe-de-pet da Nala e da Eevee
+
 <h3>O que estou estudando/utilizando:</h3>
 <div>
 	<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
