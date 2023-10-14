@@ -1,12 +1,11 @@
-<div>
-  <h3> Olá, eu sou Nahyara! 😉 </h3> </div>
 
+# hello world, Nahyara aqui! 👋
 
-- 🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
-- 🎓 Me graduei em Sistemas de Informação pela Uninassau
-- 🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
-- 📰 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
-- 🐶 Mãe-de-pet da Nala e da Eevee
+<p>🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
+<p>🎓 Me graduei em Sistemas de Informação em 2023.1
+<p>🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
+<p>📰 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
+<p>🐶 Mãe-de-pet da Nala e da Eevee</p>
 
 <h3>O que estou estudando/utilizando:</h3>
 <div>
