@@ -1,10 +1,10 @@
 
 # hello world, Nahyara aqui! 👋
 
-<p>🌱 Estou em transição de carreira e sou aluna do curso NExT na Cesar School
+<p>🌱 Estou em transição de carreira e sou residente em Engenharia de Software no projeto CIn/Motorola
 <p>🎓 Me graduei em Sistemas de Informação em 2023.1
 <p>🔎 Tenho interesse por desenvolvimento back-end e qualidade de software
-<p>📰 Sou formada em jornalismo e atualmente trabalho como assessora de imprensa
+<p>📰 Sou formada em jornalismo
 <p>🐶 Mãe-de-pet da Nala e da Eevee</p>
 
 <h3>O que estou estudando/utilizando:</h3>
